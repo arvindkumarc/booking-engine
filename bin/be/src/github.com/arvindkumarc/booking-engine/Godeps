@@ -1,0 +1,50 @@
+{
+	"ImportPath": "github.com/arvindkumarc/booking-engine",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go.net/websocket",
+			"Comment": "null-136",
+			"Rev": "28ff664507e453c4455b8c65e701bbe2b2ac980d"
+		},
+		{
+			"ImportPath": "github.com/agtorre/gocolorize",
+			"Rev": "ece46ebc06697f3518456151678da58907b137e2"
+		},
+		{
+			"ImportPath": "github.com/coopernurse/gorp",
+			"Comment": "v1.6.1",
+			"Rev": "31a7c02fabe8965c887cd243e381ce08328f3741"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "1c7841955920910958c71b1cc1a03f628267d468"
+		},
+		{
+			"ImportPath": "github.com/howeyc/fsnotify",
+			"Comment": "v0.9.0-2-g13cd45d",
+			"Rev": "13cd45d6f46a8c92566aac3919540024e6f25c75"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Rev": "ae7391529ced9c12f06bf01eae33dadb4c70e49f"
+		},
+		{
+			"ImportPath": "github.com/revel/revel",
+			"Comment": "v0.9.1",
+			"Rev": "df5d88dbece276012b4c7ab45a33a1047c1db108"
+		},
+		{
+			"ImportPath": "github.com/robfig/config",
+			"Rev": "09efbd4617d1beb41b72f6668403b1e383b6a4cf"
+		},
+		{
+			"ImportPath": "github.com/robfig/pathtree",
+			"Rev": "41257a1839e945fce74afd070e02bab2ea2c776a"
+		},
+		{
+			"ImportPath": "github.com/streadway/simpleuuid",
+			"Rev": "6617b501e485b77e61b98cd533aefff9e258b5a7"
+		}
+	]
+}
